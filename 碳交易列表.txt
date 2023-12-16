@@ -1,0 +1,97 @@
+carbonData: [{
+      companyName: '百度云计算技术(北京)有限公司',
+      transAmount: Math.floor(Math.random() * 300) + 100,
+      display_time: randomDate(new Date(2023, 5, 16), new Date()),
+      price: Math.floor(Math.random() * 50) + 50,
+      type: carbonType(),
+      contactPerson: '庄世',
+      contactWay: '468451@163.com'
+    }, {
+      companyName: '北京国中生物科技有限公司',
+      transAmount: Math.floor(Math.random() * 300) + 100,
+      display_time: randomDate(new Date(2023, 5, 16), new Date()),
+      price: Math.floor(Math.random() * 50) + 50,
+      type: carbonType(),
+      contactPerson: '庄世',
+      contactWay: '468451@163.com'
+    }, {
+      companyName: '富泰京精密电子有限公司',
+      transAmount: Math.floor(Math.random() * 300) + 100,
+      display_time: randomDate(new Date(2023, 5, 16), new Date()),
+      price: Math.floor(Math.random() * 50) + 50,
+      type: carbonType(),
+      contactPerson: '庄世',
+      contactWay: '468451@163.com'
+    }, {
+      companyName: '和路雪（中国）有限公司',
+      transAmount: Math.floor(Math.random() * 300) + 100,
+      display_time: randomDate(new Date(2023, 5, 16), new Date()),
+      price: Math.floor(Math.random() * 50) + 50,
+      type: carbonType(),
+      contactPerson: '庄世',
+      contactWay: '468451@163.com'
+    }, {
+      companyName: '北京生物制品研究所有限责任公司',
+      transAmount: Math.floor(Math.random() * 300) + 100,
+      display_time: randomDate(new Date(2023, 5, 16), new Date()),
+      price: Math.floor(Math.random() * 50) + 50,
+      type: carbonType(),
+      contactPerson: '庄世',
+      contactWay: '468451@163.com'
+    }, {
+      companyName: '利乐包装有限公司',
+      transAmount: Math.floor(Math.random() * 300) + 100,
+      display_time: randomDate(new Date(2023, 5, 16), new Date()),
+      price: Math.floor(Math.random() * 50) + 50,
+      type: carbonType(),
+      contactPerson: '庄世',
+      contactWay: '468451@163.com'
+    }, {
+      companyName: '北京恒长数码科技有限公司',
+      transAmount: Math.floor(Math.random() * 300) + 100,
+      display_time: randomDate(new Date(2023, 5, 16), new Date()),
+      price: Math.floor(Math.random() * 50) + 50,
+      type: carbonType(),
+      contactPerson: '庄世',
+      contactWay: '468451@163.com'
+    }, {
+      companyName: '北京泰德制药股份有限公司',
+      transAmount: Math.floor(Math.random() * 300) + 100,
+      display_time: randomDate(new Date(2023, 5, 16), new Date()),
+      price: Math.floor(Math.random() * 50) + 50,
+      type: carbonType(),
+      contactPerson: '庄世',
+      contactWay: '468451@163.com'
+    }, {
+      companyName: '康宁显示科技（中国）有限公司',
+      transAmount: Math.floor(Math.random() * 300) + 100,
+      display_time: randomDate(new Date(2023, 5, 16), new Date()),
+      price: Math.floor(Math.random() * 50) + 50,
+      type: carbonType(),
+      contactPerson: '庄世',
+      contactWay: '468451@163.com'
+    }, {
+      companyName: 'SMC（中国）有限公司',
+      transAmount: Math.floor(Math.random() * 300) + 100,
+      display_time: randomDate(new Date(2023, 5, 16), new Date()),
+      price: Math.floor(Math.random() * 50) + 50,
+      type: carbonType(),
+      contactPerson: '庄世',
+      contactWay: '468451@163.com'
+    }, {
+      companyName: '悦康药业集团有限公司',
+      transAmount: Math.floor(Math.random() * 300) + 100,
+      display_time: randomDate(new Date(2023, 5, 16), new Date()),
+      price: Math.floor(Math.random() * 50) + 50,
+      type: carbonType(),
+      contactPerson: '庄世',
+      contactWay: '468451@163.com'
+    }, {
+      companyName: '中芯国际集成电路制造有限公司',
+      transAmount: Math.floor(Math.random() * 300) + 100,
+      display_time: randomDate(new Date(2023, 5, 16), new Date()),
+      price: Math.floor(Math.random() * 50) + 50,
+      type: carbonType(),
+      contactPerson: '庄世',
+      contactWay: '468451@163.com'
+    }],
